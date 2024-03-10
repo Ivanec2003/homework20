@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework20</string>
+    <string name="imageView4Description">Status Wi-Fi</string>
+    <string name="imageView3Description">third image</string>
+    <string name="imageView2Description">second image</string>
+    <string name="imageView1Description">first image</string>
+</resources>
